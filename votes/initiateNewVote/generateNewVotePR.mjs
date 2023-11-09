@@ -2,7 +2,7 @@
 
 import { createInterface as readLines } from "node:readline";
 import { exit } from "node:process";
-import { get } from "node:https";
+import { Readable } from "node:stream";
 import { resolve } from "node:path";
 import { once } from "node:events";
 import { open, readFile } from "node:fs/promises";
@@ -149,7 +149,7 @@ if (argv["nodejs-repository-path"] == null) {
     if (!res.ok) {
       throw new Error("Wrong status code", { cause: res });
     } else {
-      return res.text();
+      return Readable.fromWeb(res.body);
     }
   });
 } else {
