@@ -1,0 +1,224 @@
+subject: What is the best primitive color?
+headerInstructions: |
+  Please set a score to proposal according to your preferences.
+  You should set the highest score to your favorite option.
+  Negative scores are allowed, only the order matters.
+  You can tie two or more proposals if you have no preference.
+  To abstain, keep all the propositions tied.
+candidates:
+  - >-
+    ![A red
+    square](https://github.com/aduh95/collaborators-public-votes/raw/dummy-vote/assets/red.svg)
+  - >-
+    ![A blue
+    square](https://github.com/aduh95/collaborators-public-votes/raw/dummy-vote/assets/blue.svg)
+  - >-
+    ![A green
+    square](https://github.com/aduh95/collaborators-public-votes/raw/dummy-vote/assets/green.svg)
+footerInstructions: |
+  This is a dummy vote to see if the process and tooling works.
+method: Condorcet
+allowedVoters:
+  - Anna Henningsen <anna@addaleax.net>
+  - Antoine du Hamel <duhamelantoine1995@gmail.com>
+  - Yagiz Nizipli <yagiz@nizipli.com>
+  - Anto Aravinth <anto.aravinth.cse@gmail.com>
+  - Anatoli Papirovski <apapirovski@mac.com>
+  - Ash Cripps <email@ashleycripps.co.uk>
+  - Chemi Atlow <chemi@atlow.co.il>
+  - Qingyu Deng <i@ayase-lab.com>
+  - Bryan English <bryan@bryanenglish.com>
+  - Benjamin Gruenbaum <benjamingr@gmail.com>
+  - Beth Griggs <bethanyngriggs@gmail.com>
+  - Bradley Farias <bradley.meck@gmail.com>
+  - Tierney Cyren <hello@bnb.im>
+  - Ben Noordhuis <info@bnoordhuis.nl>
+  - Ruben Bridgewater <ruben@bridgewater.de>
+  - Christian Clauss <cclauss@me.com>
+  - Сковорода Никита Андреевич <chalkerx@gmail.com>
+  - Colin Ihrig <cjihrig@gmail.com>
+  - Shelley Vohr <shelley.vohr@gmail.com>
+  - Kohei Ueno <kohei.ueno119@gmail.com>
+  - Daeyeon Jeong <daeyeon.dev@gmail.com>
+  - Daniel Bevenius <daniel.bevenius@gmail.com>
+  - Danielle Adams <adamzdanielle@gmail.com>
+  - Debadree Chatterjee <debadree333@gmail.com>
+  - Deokjin Kim <deokjin81.kim@gmail.com>
+  - David Carlier <devnexen@gmail.com>
+  - Gus Caplan <me@gus.host>
+  - Adrian Estrada <edsadr@gmail.com>
+  - Erick Wendel <erick.workspace@gmail.com>
+  - Ethan Arrowood <ethan@arrowood.dev>
+  - Franziska Hinkelmann <franziska.hinkelmann@gmail.com>
+  - Feng Yu <F3n67u@outlook.com>
+  - Gerhard Stöbich <deb2001-github@yahoo.de>
+  - Gabriel Schulhof <gabrielschulhof@gmail.com>
+  - Jiawen Geng <technicalcute@gmail.com>
+  - Geoffrey Booth <webadmin@geoffreybooth.com>
+  - Gireesh Punathil <gpunathi@in.ibm.com>
+  - Guy Bedford <guybedford@gmail.com>
+  - Vinícius Lourenço Claro Cardoso <contact@viniciusl.com.br>
+  - Harshitha K P <harshitha014@gmail.com>
+  - Zeyu "Alex" Yang <himself65@outlook.com>
+  - Ian Sutherland <ian@iansutherland.ca>
+  - Jackson Tian <shyvo1987@gmail.com>
+  - Jacob Smith <jacob@frende.me>
+  - James M Snell <jasnell@gmail.com>
+  - Jan Krems <jan.krems@gmail.com>
+  - Joe Sepi <sepi@joesepi.com>
+  - Joyee Cheung <joyeec9h3@gmail.com>
+  - Juan José Arboleda <soyjuanarbol@gmail.com>
+  - Minwoo Jung <nodecorelab@gmail.com>
+  - Matthew Aitken <maitken033380023@gmail.com>
+  - Yoshiki Kurihara <yosyos0306@gmail.com>
+  - Keyhan Vakil <kvakil@sylph.kvakil.me>
+  - Chengzhong Wu <legendecas@gmail.com>
+  - Nitzan Uziely <linkgoron@gmail.com>
+  - LiviaMedeiros <livia@cirno.name>
+  - Luigi Pinca <luigipinca@gmail.com>
+  - Luke Karrys <luke@lukekarrys.com>
+  - Zijian Liu <lxxyxzj@gmail.com>
+  - Marco Ippolito <marcoippolito54@gmail.com>
+  - Akhil Marsonya <akhil.marsonya27@gmail.com>
+  - Matteo Collina <matteo.collina@gmail.com>
+  - Xuguang Mei <meixuguang@gmail.com>
+  - Mestery <mestery@protonmail.com>
+  - Michael Dawson <midawson@redhat.com>
+  - Milad Fa <mfarazma@redhat.com>
+  - Alba Mendez <me@alba.sh>
+  - Moshe Atlow <moshe@atlow.co.il>
+  - Brian White <mscdex@mscdex.net>
+  - Myles Borins <myles.borins@gmail.com>
+  - Claudio Wunder <cwunder@gnome.org>
+  - Ouyang Yadong <oyydoibh@gmail.com>
+  - Filip Skokan <panva.ip@gmail.com>
+  - Stephen Belanger <admin@stephenbelanger.com>
+  - Rafael Gonzaga <rafael.nunu@hotmail.com>
+  - Darshan Sen <raisinten@gmail.com>
+  - Raz Luvaton <rluvaton@gmail.com>
+  - Richard Lau <rlau@redhat.com>
+  - Ricky Zhou <0x19951125@gmail.com>
+  - Robert Nagy <ronagy@icloud.com>
+  - Ruy Adorno <ruyadorno@google.com>
+  - Rod Vagg <rod@vagg.org>
+  - Ujjwal Sharma <ryzokuken@disroot.org>
+  - Santiago Gimeno <santiago.gimeno@gmail.com>
+  - Masashi Hirano <shisama07@gmail.com>
+  - Paolo Insogna <paolo@cowtech.it>
+  - Steven R Loomis <srl295@gmail.com>
+  - Stewart X Addison <sxa@redhat.com>
+  - Michaël Zasso <targos@protonmail.com>
+  - theanarkh <theratliter@gmail.com>
+  - Tiancheng "Timothy" Gu <timothygu99@gmail.com>
+  - Tobias Nießen <tniessen@tnie.de>
+  - Trivikram Kamat <trivikr.dev@gmail.com>
+  - Rich Trott <rtrott@gmail.com>
+  - Vladimir de Turckheim <vlad2t@hotmail.com>
+  - Vladimir Morozov <vmorozov@microsoft.com>
+  - Mohammed Keyvanzadeh <mohammadkeyvanzade94@gmail.com>
+  - Daijiro Wachi <daijiro.wachi@gmail.com>
+  - Khaidi Chu <i@2333.moe>
+  - Yash Ladha <yash@yashladha.in>
+  - Yongsheng Zhang <zyszys98@gmail.com>
+publicKey: |
+  -----BEGIN PUBLIC KEY-----
+  MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0UdeGIYPm2N9krd9ldFn
+  nQ9ufapBzknr0BJRdjSuBD6hSiQE01cs7xZ2sNXfyfn6UFRcKUpM+ZLHPERvBvGX
+  9lKCE4HaeWVt2SDw+J43qGu/uHUG+2nW7qURQgS9MfI6FXxiI6RJ+FDn6QN2+8S0
+  QyZgABNuyx9c+CYNsPJggkNVb/yQXd/FlLYdw5dMvo+UrJqdrmsnGdif3BXXr2rN
+  /tKA5IwBP7ybQacB3cpTFOAIsNynrXeiJKfJyz7hxO1sxSRZSCJzQzdYL6ThItlo
+  hKI0Vwen22MyRTCeY+zfHYulXOlEtRDffDzrv2rTf1KPESMJRJMH3JpD2r0kqCHY
+  KQIDAQAB
+  -----END PUBLIC KEY-----
+encryptedPrivateKey: >-
+  U2FsdGVkX18Q8DbqyLMYDhVEDLDWYmtagAjwiwWxsyhrn5Fz29KFTGA32yYJSZxmFey+jWta+iqk2w2aS+C7hBMd5s8jBs/8QqwGITni8ZKLrN7CD9TX9QyXJqdx7cWg4qEzNhDqGZbBWhICf6OXFNIllNzBO/F4mWEjgx6039YygLbeosH30BNp1D5oSO1KyfAUc5ec96otm1ZXbg1UKDgVUVC/D5NNxgxANyp7IqGGX6wHMMNdYFeRyObE/QltMU21KUB9YaRGB/O5TNZX+rcXiPWy5HMlKiPsm2gIzYU50K3k1JfYP8V57HUCh+gkzQ5+zJBqPeeG41rf1y86i5e8WRdxEsf5142WgISmS4SbuX62j6j6RFl1w08UjwTdN/YTYOm/uXTSiN31+JCsKs6aeD2IoqthF198cOU/dneVpWbBUlT0G+ca79DpXR6cfRoJiMm+W5PQQ8AJxS4H0FdZEJNjEPVaGq0hoIEIa4jINoWdGr10D/Ph5DyIpL1X4+CM1g63vrd8McAwMgk+8+/7qQhpTiiemQESYwPnucgwmRB9P14t7lFNYf6d8wCUd8Fi/iDteaLA6zWA8UFlTILjA7mSXVmx/sjxESRB9pEqrtPzqH2G5eATD5m9gj4DaVmu6UtbFo75JRVvs1+7/w9QYKYq/kM1W3/21TaFDp5stq0TxIL2t/rAlL3652a2hp7JzUsKpdVfyR4xyG3mIb/jVkMNJx46i+dxkbwQ+FWY/v+tGBC6ii42VRCnGCn2ContD0r8/yGqSPU8yvWO+gXIAu/fSpZqcp7SbekdN9wer0PVaNQjvDElXRPqzRzTg2ImXYTCZermEKXBip/abwmfwLiDogZDLZshMPcHYlNVBD/rJStmylkFQWzL7APl//8NlQnR5Mo0T9jaLv6QlijgtQ52qUDmIFlA3xGHai37Y5u+msKRXLBry8+uFQzX4GYu/lg59tCAINP3LFKyWRC6+qhuPdokFByQUZL8nhIqWsJdFUJJGNiP4l5D2jZToc6Eh+ouwGhJHtD+njvEAlLWCgk4bIPwfFQ0yKj+qPbxWdfMJUrLmtwZ+U4n1NvLHRErM1UYr9S4+uKHRcWwEygKTcQtXLpPj/7LK9XGvxPf/HFsrI62cBmh5s/KQBlvCZGmx+7RRF0IZn89dYhV8+BMUEg47iL/qN5R6BOSpoCJdfY7TrKsPLgx5uJiSRsdTzBUbm4raWJe1UVxQU0A7VHQUKXnuVDWOk38TGrrENqPpzlpyIJx7jnY/expNtrCutFVpaGXDeQ0JFoeVWrHCXremd46Pn3RbxgolnxVd2ZbGQldUynT3g1FVNNYwXJ82O8YhySBxdGfve37beQ6+Azy3V8sh8EX0T6wxdzVnPFBgOPiP91nreIBqZhn4b2WmhTqrwa0VKalHKyU3jXwVYZNo51PBI8BrkHQRJsQzNqdqtsvryoxhhUsw/mXw1hkQbMcqFYXVLV4gn9lJ4wDNDEjJHZv0e+O5hPRE7cMK8Ct8c+DPGf8S4e2IDldarubH8XKMW7PFkTZCGICgzPTQVanFRefNqBV4n+LebnrQvnXRRCuKNXYPZQnSUdFw0whPMoT2geJAJ0tUpRhPQaBFhvumxOJfUMpLMxN5PaEJxMz0ngSsQ7EBEEfVJhPMOrl
+shares:
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA0/sPsybWWziAQ/9EyGToCajMdqa0nawi4tSGPrKa5pnog37eADfFF0dlJYO
+    7SDpBMDywqHr51P9rApkDbvnTQhwiO0c/ksONYHvXtABU0fxn5P3AQDebNix9Mcj
+    6U5S9HDWlBImn4uNJFPYNnuejie4T1rxIp5RdzMzeAyNcwYWboSYHeB2fKPQgTtv
+    HbQFMJYXzAKTfWhRkDD9asizCwcvqnI//FSm1Cc8zkp4FdaHyHilid25LDgq7hRr
+    JQHzAkdw/xnpGDkTEQEzg34lONa4hgDPBXSUOnhK2iIfhn/IgTQUByi/91qeLvI1
+    ww3poBqDUI/mB2zD5EuziO4HIH6ZmE+dVCGn8MFGj4EdFp46au/DVmvJwh5chlE9
+    jw38qJ/sgHaXK2kLpHZKQu/ElrDSxa43l7uR6dPdxJCx5XxL0Fyj4Dy5X2f0Sc2h
+    0k+X3LOh2Bc2f3q1MFfdAx2ixWbo80ml/ZC0wsqfu1YjBT3dWApHCJwKE9bbjQfW
+    0/D4yU/HehUsqCxK/29uxX2Fc+M5G60a+kWvnGh7Z6D8lKqCAanqGBZNE/9JPZlp
+    bzQjhn1DCkKz4/mxJwkXIkYL33p0YQks8tx6U6WedhwdKDF330/wcp/y15qlD4wW
+    rIJxIzz5oYudj8kP4wqMsxPNX9tdmMxvIqrZL4Bp0K+0Dlmt9spFkv0aQqgKmz/S
+    XwHV/8nOvNFziUMhzGzgwpWXJrDXlUJWdgjC/IG2wsqcwIanRCx6RZLrzWOD7RXh
+    eHxnIvDj3LGqFBtcPkxPUcfRknisPZHlUv8QDcs2pk8oqFk/YFmi87zQtC3UG7sk
+    =WJ1X
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA6CMQfEFjOFGARAAoLqSvAA9pynFp9CP95UcrmQSZn/8xeKQPK1CbocN5h5Z
+    BdSK3Vy0pkDlOcY68Pfh0WiTov/ruuB6fFozBsTx8Y4684cNJi2jgDDGsBtFv0vq
+    vNDr+AwmP7qOS3C7mSXCDmTgE4kxfg0juiYSV35cTT0WeSwih213y7ncdKxT40S0
+    Ar7AEwnPwI4zRMJBgiKEe8J85HCens1oWQmg9JVxxciFyR/3aohwNMWH8kU2pJXT
+    pDQ8Ki0Ugcrwyq4WOd5LUo4LyFRz+PfWydJVHvQKEIL6jHQT3CEfIO8UnWV3GpRP
+    D4XUeyXexzYQsO+WHIny5JdSUV8zawHmvP1NTxk1ArIGp6NzQfJhSIVss65yTKPp
+    rB09RETNOwKnkMjeDBWvnQo9srH73ShhJiuQxNz7DiCkS6CH8Swgi4xCSHJ6TyjZ
+    TiJUiQtmpm9Cl0O80wibXHQ7AI9YZ5Y2KLF4YV4hpTDt3OW0Ul3WiVBaex3WSS8m
+    sYaoH1EzG/yteiIbN1Gy/aGPhnaYY9OJOkH3jrCNqseLym4QifAn5vUuyk16pL8U
+    D8naynBHutLu3KZTmsxGeGya/XdET2Ivq4IdJDBHJrP5OUvAfeUeonXFGHVOEpl0
+    ElF+7Y8tFdUyaCDKn01Vx4Jhrd3cQRSl8ejHCgkebPeqm6OrfdmVg042hF6o0cfS
+    XQGy6OdlQHZpjtLFGYa65k1/TbvYSUyGKAI3ohq6WGxeiwFQWKU/U41CtTMbGLQZ
+    VUGM0hqMaVXFQFFkL+1u0/klzNCaxtmazYUkHGzxeETtsqmmPlYYhaJX+RbBlQ==
+    =1O4f
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQGMAwXeeSgQfz3AAQv/XIEfEEkEVI0+PFgPPVCybTqqhKRSrKC2wy4Zw2iFyV9n
+    R9euhmncrjj4g3xRLUzCW+hxCi/jasH/6LnWD7GZxCuUc67gGDl4tSimZEcTtutA
+    RruiXYYIY5o5HYsieLXctnrWUlyExUCAfuzfoveURU6G4cib3fVnWjDuMrInH3BF
+    omj47u2IkO4+DWPGriZPA97I6RyuSab69y0QmTsSu6M22JOFIUqRgZS3lELrQEuA
+    qTNXBYv5v5w2EdYoTYU7LrDxwzCdcRhynzxxyIUGSSID0Ln8d5Q/5zIpPHzDwC59
+    /SxBQgyE0j5oE27Y3s5HSSaejQ+N4KOfCNU0TTWXiZgGOmnbPYJZcI8bBJHZv1vy
+    H3MhNkF9xZfjegFDhe/DhnhOUDcBt0iQUSQqu7hbmiNyHvEt1vinsp9++Qprz88N
+    WkBWUNHpyJ8TeEQhDckE87Un145PK9pFsL31dVww5jAuo1SW5ApJoCjOz0Z9Xp7R
+    0dI2xbOXxP8aLw3xgNdD0l0BxkWGvx+fH/a9Cjm3EYN1rENQanpF5/wjT7stUzEs
+    FadbU1m/A1G5Me0mGF01aFK33xb++MpkYAJmnThF8uxlQqiUmm8UKSPfPa91vFl3
+    P2bHJEW/U60qk37vFaY=
+    =1zLs
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA+FA9hvFl53MAQ/9FBObPy7D9E3HtGcwZ83kz9WO4b3GL2Dl4+KA13dvNS35
+    midyexs/xqZhGH59C+t5VMZQ3yXvhaBr7FdK2fZFTlDayR79BiketMaZIiPuimxk
+    1NvRg0lGj/PExANGMszuXBaR1/Rd18jsg1GuBQUOME49zGUbXhCDegNBrSe1/oGL
+    mvBCuG/MlrsRUV6tL2oOW1eRqkHYoIH2rTxGeW/5POjwLTYnUrMV8dMTEowYOl/v
+    gRexD+hmXiP+wmnQR1eX5sn2EUzJUdqC5pVR9VNAqSITVH0o6AHV+HhZ0z8bHjpF
+    rDgx89kL42niK4wEGi+FHxNw/vgk8CUtPUMg42qcrv3Pm4K11hx8R79enBMvqF+5
+    RMnPfzofLp5NboemYNuWxatEKYTxAlTBOEdyJ5DzHXIWgwqROSHW2Tin67j6cunB
+    LE4mUvN+lK1OEnwQU4A8pXTxVUweJKpR2KZlf6JkWKbjlpD+qvPfGwcum2WmY4c4
+    K5Sn8juTIx1eW866TaLLPy/18U4lhtF9mLGwrP7uj2A9/D4aowh2z9Jj+7V4Oj/0
+    FMqfnbAhlTpbF8Jmvc+YteUxW6gUvhjBt10gSDUHyELVTwxN320y/7QcGYTM2ihu
+    HNmhKza8OfRM3azssNzudNnB1oBOztiGRKDj4a5h6qnFs1n3bxA15tnwoUtQYHTS
+    XwHjJcmtu7qGscnYs6WtNk/BCeH/++uy772tiNuS77EHg3S/8fY6zTMgOn9odOh6
+    oqmFcG6rdw16nsGg8WeBCpVI3NDJm6BZYs3jTxmlT0N23sBgSpvL13BtSUE5kpwm
+    =E09u
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA0cIlk+Ahd/nAQ/8C9lrwhyW2gky1WxiNKDa6vS/BQnf8uI+lavBZ4SHS6q7
+    35nPTB9PvTx6Zu5M3GrDaNGO5yR+8nvFJ+4X+EWINz1ssrRpPo8hp+yPm/gOGuh4
+    ZTMIEVBWdReKTZhfcSooTxPE3qsfKGd+tYZYhCaPfamNc/u6RjaW70HIMW/tnK11
+    tQ6f9oT96+9H5+gh+ajUfwAeKwvn8HF59KBb4smujXzyo/i6Nc87a1+pR+Rfd+w3
+    p5/tCWQGIV8ey+SyXjL1XdF+ryHMwR5GTrDlPeBpK1R69o5rRd1i2gJj6ElR6Wuv
+    aOltzTWtTdWgGj9DOCP4LuOynU7VlPH2ys/Z/shmRCsOtgLB5nMNQV/YwA8eNGoW
+    1d6w0UTCahiHXS31h99QfvJAf57g3SCI7JPa3lh5cv3s4KOWuSeEcWCqbzhut4vS
+    O6SR7oaMhsG7h6C6472L42JK5pf/n/KZ66YhKbW8HTMTrzdkYbCYnTkknFB+l7Vn
+    gMrThg/yuHM3HfHYocuCYhx/GPUZHKOmfSJ5PKDsRjlxhnP3u++xgnb4nfnP07So
+    2VZuh7x7nxoYM12xlOkCtRNVUZpiu2HuLspw4dwAdI4MU1ohL3ipfILSx/kTDjKo
+    61WmSul969cZHpgqYz7B+jGlAc9yRnY2o1ASRlE8EkjxcfOs1DpSANfyftim58DS
+    XQEt7+ldnScBsMeICl5w/Ad1j2lDxBU4OvfZiiiu+PfTUNy6T3EuNe7V8b7SibTX
+    opU8SG5XpNR8WMh4FtJ7+OVc9KJ6WtZ8MjLz+bkFK6UkZnvyySlMeJYzPE+NrQ==
+    =DOEk
+    -----END PGP MESSAGE-----
+canShuffleCandidates: true
