@@ -3,7 +3,7 @@
 
 # 1. Select a subject for the vote. This can be a question addressed to the TSC
 #    voting members.
-subject: REPLACEME
+subject: What is the best primitive color?
 
 # 2. You can leave the header instructions as is, or modify them if you see fit.
 headerInstructions: |
@@ -24,8 +24,12 @@ headerInstructions: |
 #    voters express their preference for each candidates, no matter how many
 #    there are.
 candidates:
-  - TODO
-  - TODO
+  - "![A red
+    square](https://github.com/transloadit/uppy/raw/dummy-vote/assets/red.svg)"
+  - "![A blue
+    square](https://github.com/transloadit/uppy/raw/dummy-vote/assets/blue.svg)"
+  - "![A green
+    square](https://github.com/transloadit/uppy/raw/dummy-vote/assets/green.svg)"
 
 # 4. Pass the following to false if it's important to keep the candidates in the
 #    order you define above. Presenting candidates in a fixed order tends to
@@ -35,11 +39,12 @@ canShuffleCandidates: true
 # 5. Insert here a short description of the vote objectives and link to the
 #    issue it was discussed on to give the full context.
 footerInstructions: |
-  TBD
+  This is a dummy vote to see if the process and tooling works.
 
 # 6. Optionally, insert a brief introduction for the vote PR, in the markdown format.
 prBody: |
+  Here we should have some instructions on the vote.
 
 # 7. Optionally, choose an id that will be used for the branch name as well as
 #    the vote folder name. If not supplied, a UUID will be used.
-path-friendly-id: null
+path-friendly-id: dummy-vote
