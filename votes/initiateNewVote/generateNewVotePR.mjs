@@ -255,7 +255,7 @@ Vote instructions:
 - on the CLI: ${"`"}git node vote ${prUrl}${"`"}
 - on the web: <https://nodejs.github.io/caritat/#${prUrl}>
 
-To close the vote, at least ${shareholderThreshold} secret holder(s)[^1] must \
+To close the vote, at least ${shareholdersThreshold} secret holder(s)[^1] must \
 run the following command: ${"`"}git node vote ${prUrl} --decrypt-key-part --post-comment${"`"}
 
 [^1]: secret holders are folks who have access to the private key associated with \
