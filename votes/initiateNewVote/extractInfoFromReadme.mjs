@@ -12,7 +12,7 @@ export default async function* exportInfoFromReadme(iterator) {
         handle: currentMemberHandle,
         name,
         email,
-        isTSC: isInsideCollaboratorsSection,
+        isTSC: isInsideTSCSection,
       };
       currentMemberHandle = null;
     } else if (isInsideTSCSection && line === "#### TSC regular members") {
