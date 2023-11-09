@@ -223,7 +223,7 @@ ${
     .join("\n")
 }
 
-To close the vote, a minimum of ${shareholderThreshold} key parts would need to be revealed.
+To close the vote, a minimum of ${shareholdersThreshold} key parts would need to be revealed.
 
 Vote instructions will follow.`,
       "--jq",
