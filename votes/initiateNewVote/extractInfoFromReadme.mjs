@@ -1,7 +1,7 @@
 export default async function* exportInfoFromReadme(iterator) {
   const handleLine = /^\* \[([^\]]+)\]\(/;
   const nameAndEmailLine =
-    /^\s\s\*\*([^*]+)\*\* {1,2}<<([^>]+)>>(?: \([^)]+\))?$/;
+    /^\s\s\*\*([^*]+)\*\* <<([^>]+)>>(?: {1,2}\([^)]+\))?$/;
   let isInsideTSCSection = false;
   let isInsideCollaboratorsSection = false;
   let currentMemberHandle;
