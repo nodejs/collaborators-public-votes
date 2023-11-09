@@ -1,0 +1,25 @@
+subject: What is the best primitive color?
+
+# Please set a score to proposal according to your preferences.
+# You should set the highest score to your favorite option.
+# Negative scores are allowed, only the order matters.
+# You can tie two or more proposals if you have no preference.
+# To abstain, keep all the propositions tied.
+
+preferences:
+  - title: >-
+      ![A blue
+      square](https://github.com/aduh95/collaborators-public-votes/raw/dummy-vote/assets/blue.svg)
+    score: 0
+  - title: >-
+      ![A red
+      square](https://github.com/aduh95/collaborators-public-votes/raw/dummy-vote/assets/red.svg)
+    score: 0
+  - title: >-
+      ![A green
+      square](https://github.com/aduh95/collaborators-public-votes/raw/dummy-vote/assets/green.svg)
+    score: 0
+poolChecksum: >-
+  N4CcMXY6XzoZXmA5HDt0szcnRD4t2KMjfUUtnHCmj5ElAdEUCCWGyDVdtOzYqW2CwtBQuETmJVF/d1v18u858Q==
+
+# This is a dummy vote to see if the process and tooling works.
