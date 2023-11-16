@@ -3,7 +3,7 @@
 
 # 1. Select a subject for the vote. This can be a question addressed to the TSC
 #    voting members.
-subject: REPLACEME
+subject: Node.js Mascot Voting
 
 # 2. You can leave the header instructions as is, or modify them if you see fit.
 headerInstructions: |
@@ -24,8 +24,14 @@ headerInstructions: |
 #    voters express their preference for each candidates, no matter how many
 #    there are.
 candidates:
-  - TODO
-  - TODO
+  - ![Green turtle wearing an aviator hat with glasses on top of the head](./1.png)
+  - ![Black spider on a black web with green background](./2.png)
+  - ![Green bee with black stripes and wings, eyes are shaped like the Node.js logo](./3.png)
+  - ![Turtle standing up on a rocket, wearing a baseball cap](./4.png)
+  - ![Turtle with a propeller straped to its shell](./5.png)
+  - ![Bee with a green and grey body, loosely shaped like the Node.js logo](./6.png)
+  - ![Bee with large antennas and an olive green colored body](./7.png)
+  - ![Green frog with a big smile](./8.png)
 
 # 4. Pass the following to false if it's important to keep the candidates in the
 #    order you define above. Presenting candidates in a fixed order tends to
@@ -35,7 +41,12 @@ canShuffleCandidates: true
 # 5. Insert here a short description of the vote objectives and link to the
 #    issue it was discussed on to give the full context.
 footerInstructions: |
-  TBD
+  A few reminders: 
+  - To ensure no biases, usernames are omitted from the designs.
+  - The design will be touched up/brought to life by the Linux Foundation design team.
+    So don’t worry about overall quality, just the concept! We will work with the
+    person who created the concept to ensure integrity.
+  - Only Node.js Collaborators may vote. This will be cross-checked against the list.
 
 # 6. Optionally, insert a brief introduction for the vote PR, in the markdown format.
 prBody: |
