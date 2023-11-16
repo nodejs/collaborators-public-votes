@@ -24,14 +24,14 @@ headerInstructions: |
 #    voters express their preference for each candidates, no matter how many
 #    there are.
 candidates:
-  - ![Green turtle wearing an aviator hat with glasses on top of the head](./1.png)
-  - ![Black spider on a black web with green background](./2.png)
-  - ![Green bee with black stripes and wings, eyes are shaped like the Node.js logo](./3.png)
-  - ![Turtle standing up on a rocket, wearing a baseball cap](./4.png)
-  - ![Turtle with a propeller straped to its shell](./5.png)
-  - ![Bee with a green and grey body, loosely shaped like the Node.js logo](./6.png)
-  - ![Bee with large antennas and an olive green colored body](./7.png)
-  - ![Green frog with a big smile](./8.png)
+  - ![Green turtle wearing an aviator hat with glasses on top of the head](https://github.com/aduh95/collaborators-public-votes/raw/mascot-election/assets/a49f3a87-f681-4211-a9a7-4e66db43ae31.png)
+  - ![Black spider on a black web with green background](https://github.com/aduh95/collaborators-public-votes/raw/mascot-election/assets/a82b2374-7765-4703-81cf-974676971f49.png)
+  - ![Green bee with black stripes and wings, eyes are shaped like the Node.js logo](https://github.com/aduh95/collaborators-public-votes/raw/mascot-election/assets/b71cec0e-dfdb-49c7-8aac-cc1d87f965b1.png)
+  - ![Turtle standing up on a rocket, wearing a baseball cap](https://github.com/aduh95/collaborators-public-votes/raw/mascot-election/assets/01413d58-9bca-45d3-9117-260641013717.png)
+  - ![Turtle with a propeller straped to its shell](https://github.com/aduh95/collaborators-public-votes/raw/mascot-election/assets/e32b03f7-ce00-432c-bf0f-8c23765e9b72.png)
+  - ![Bee with a green and grey body, loosely shaped like the Node.js logo](https://github.com/aduh95/collaborators-public-votes/raw/mascot-election/assets/5c602db9-98bb-4e69-88b0-ce1449c754a4.png)
+  - ![Bee with large antennas and an olive green colored body](https://github.com/aduh95/collaborators-public-votes/raw/mascot-election/assets/1e80efb6-0f17-4be9-9b6b-f9d72ba10648.png)
+  - ![Green frog with a big smile](https://github.com/aduh95/collaborators-public-votes/raw/mascot-election/assets/e5d03fb2-e600-4178-97d3-7b3b7c92824e.png)
 
 # 4. Pass the following to false if it's important to keep the candidates in the
 #    order you define above. Presenting candidates in a fixed order tends to
@@ -50,6 +50,9 @@ footerInstructions: |
 
 # 6. Optionally, insert a brief introduction for the vote PR, in the markdown format.
 prBody: |
+  This is a test PR for the upcoming mascot election for Node.js. Make sure to
+  vote using the email address associated with your GitHub account in the
+  Node.js README.
 
 # 7. Optionally, choose an id that will be used for the branch name as well as
 #    the vote folder name. If not supplied, a UUID will be used.
