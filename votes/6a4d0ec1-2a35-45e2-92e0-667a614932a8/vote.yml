@@ -1,0 +1,267 @@
+subject: Node.js Mascot Election
+headerInstructions: |
+  Please set a score to each proposal according to your preferences.
+  You should set the highest score to your favorite option.
+  Negative scores are allowed, only the order matters.
+  You can tie two or more proposals if you have no preference.
+  To abstain, keep all the propositions tied.
+candidates:
+  - >-
+    ![Green turtle wearing an aviator hat with glasses on top of the
+    head.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/a49f3a87-f681-4211-a9a7-4e66db43ae31.png)
+  - >-
+    ![Black spider on a black web with green
+    background.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/a82b2374-7765-4703-81cf-974676971f49.png)
+  - >-
+    ![Green bee with black stripes and wings, eyes are shaped like the Node.js
+    logo.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/b71cec0e-dfdb-49c7-8aac-cc1d87f965b1.png)
+  - >-
+    ![Turtle standing up on a rocket, wearing a baseball
+    cap.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/01413d58-9bca-45d3-9117-260641013717.png)
+  - >-
+    ![Turtle with a propeller strapped to its
+    shell.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/e32b03f7-ce00-432c-bf0f-8c23765e9b72.png)
+  - >-
+    ![Bee with a green and gray body, loosely shaped like the Node.js
+    logo.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/5c602db9-98bb-4e69-88b0-ce1449c754a4.png)
+  - >-
+    ![Bee with large antennas and an olive green colored
+    body.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/1e80efb6-0f17-4be9-9b6b-f9d72ba10648.png)
+  - >-
+    ![Green frog with a big
+    smile.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/e5d03fb2-e600-4178-97d3-7b3b7c92824e.png)
+footerInstructions: >
+  A few reminders: 
+
+  - To ensure no biases, usernames are omitted from the designs.
+
+  - The design will be touched up/brought to life by the Linux Foundation design
+  team.
+    So don’t worry about overall quality, just the concept! We will work with the
+    person who created the concept to ensure integrity.
+  - Only Node.js Collaborators may vote. This will be cross-checked against the
+  list.
+method: Condorcet
+allowedVoters:
+  - Anna Henningsen <anna@addaleax.net>
+  - Antoine du Hamel <duhamelantoine1995@gmail.com>
+  - Yagiz Nizipli <yagiz@nizipli.com>
+  - Anto Aravinth <anto.aravinth.cse@gmail.com>
+  - Anatoli Papirovski <apapirovski@mac.com>
+  - Ash Cripps <email@ashleycripps.co.uk>
+  - Chemi Atlow <chemi@atlow.co.il>
+  - Qingyu Deng <i@ayase-lab.com>
+  - Bryan English <bryan@bryanenglish.com>
+  - Benjamin Gruenbaum <benjamingr@gmail.com>
+  - Beth Griggs <bethanyngriggs@gmail.com>
+  - Bradley Farias <bradley.meck@gmail.com>
+  - Tierney Cyren <hello@bnb.im>
+  - Ben Noordhuis <info@bnoordhuis.nl>
+  - Ruben Bridgewater <ruben@bridgewater.de>
+  - Christian Clauss <cclauss@me.com>
+  - Сковорода Никита Андреевич <chalkerx@gmail.com>
+  - Colin Ihrig <cjihrig@gmail.com>
+  - Shelley Vohr <shelley.vohr@gmail.com>
+  - Kohei Ueno <kohei.ueno119@gmail.com>
+  - Daeyeon Jeong <daeyeon.dev@gmail.com>
+  - Daniel Bevenius <daniel.bevenius@gmail.com>
+  - Danielle Adams <adamzdanielle@gmail.com>
+  - Debadree Chatterjee <debadree333@gmail.com>
+  - Deokjin Kim <deokjin81.kim@gmail.com>
+  - David Carlier <devnexen@gmail.com>
+  - Gus Caplan <me@gus.host>
+  - Adrian Estrada <edsadr@gmail.com>
+  - Erick Wendel <erick.workspace@gmail.com>
+  - Ethan Arrowood <ethan@arrowood.dev>
+  - Franziska Hinkelmann <franziska.hinkelmann@gmail.com>
+  - Feng Yu <F3n67u@outlook.com>
+  - Gerhard Stöbich <deb2001-github@yahoo.de>
+  - Gabriel Schulhof <gabrielschulhof@gmail.com>
+  - Jiawen Geng <technicalcute@gmail.com>
+  - Geoffrey Booth <webadmin@geoffreybooth.com>
+  - Gireesh Punathil <gpunathi@in.ibm.com>
+  - Guy Bedford <guybedford@gmail.com>
+  - Vinícius Lourenço Claro Cardoso <contact@viniciusl.com.br>
+  - Harshitha K P <harshitha014@gmail.com>
+  - Zeyu "Alex" Yang <himself65@outlook.com>
+  - Ian Sutherland <ian@iansutherland.ca>
+  - Jackson Tian <shyvo1987@gmail.com>
+  - Jacob Smith <jacob@frende.me>
+  - James M Snell <jasnell@gmail.com>
+  - Jan Krems <jan.krems@gmail.com>
+  - Joe Sepi <sepi@joesepi.com>
+  - Joyee Cheung <joyeec9h3@gmail.com>
+  - Juan José Arboleda <soyjuanarbol@gmail.com>
+  - Minwoo Jung <nodecorelab@gmail.com>
+  - Matthew Aitken <maitken033380023@gmail.com>
+  - Yoshiki Kurihara <yosyos0306@gmail.com>
+  - Keyhan Vakil <kvakil@sylph.kvakil.me>
+  - Chengzhong Wu <legendecas@gmail.com>
+  - Nitzan Uziely <linkgoron@gmail.com>
+  - LiviaMedeiros <livia@cirno.name>
+  - Luigi Pinca <luigipinca@gmail.com>
+  - Luke Karrys <luke@lukekarrys.com>
+  - Zijian Liu <lxxyxzj@gmail.com>
+  - Marco Ippolito <marcoippolito54@gmail.com>
+  - Akhil Marsonya <akhil.marsonya27@gmail.com>
+  - Matteo Collina <matteo.collina@gmail.com>
+  - Xuguang Mei <meixuguang@gmail.com>
+  - Mestery <mestery@protonmail.com>
+  - Michael Dawson <midawson@redhat.com>
+  - Milad Fa <mfarazma@redhat.com>
+  - Alba Mendez <me@alba.sh>
+  - Moshe Atlow <moshe@atlow.co.il>
+  - Jithil P Ponnan <jithil@outlook.com>
+  - Brian White <mscdex@mscdex.net>
+  - Myles Borins <myles.borins@gmail.com>
+  - Claudio Wunder <cwunder@gnome.org>
+  - Ouyang Yadong <oyydoibh@gmail.com>
+  - Filip Skokan <panva.ip@gmail.com>
+  - Stephen Belanger <admin@stephenbelanger.com>
+  - Rafael Gonzaga <rafael.nunu@hotmail.com>
+  - Darshan Sen <raisinten@gmail.com>
+  - Raz Luvaton <rluvaton@gmail.com>
+  - Richard Lau <rlau@redhat.com>
+  - Ricky Zhou <0x19951125@gmail.com>
+  - Robert Nagy <ronagy@icloud.com>
+  - Ruy Adorno <ruyadorno@google.com>
+  - Rod Vagg <rod@vagg.org>
+  - Ujjwal Sharma <ryzokuken@disroot.org>
+  - Santiago Gimeno <santiago.gimeno@gmail.com>
+  - Masashi Hirano <shisama07@gmail.com>
+  - Paolo Insogna <paolo@cowtech.it>
+  - Steven R Loomis <srl295@gmail.com>
+  - Stewart X Addison <sxa@redhat.com>
+  - Michaël Zasso <targos@protonmail.com>
+  - theanarkh <theratliter@gmail.com>
+  - Tiancheng "Timothy" Gu <timothygu99@gmail.com>
+  - Tobias Nießen <tniessen@tnie.de>
+  - Trivikram Kamat <trivikr.dev@gmail.com>
+  - Rich Trott <rtrott@gmail.com>
+  - Vladimir de Turckheim <vlad2t@hotmail.com>
+  - Vladimir Morozov <vmorozov@microsoft.com>
+  - Mohammed Keyvanzadeh <mohammadkeyvanzade94@gmail.com>
+  - Daijiro Wachi <daijiro.wachi@gmail.com>
+  - Khaidi Chu <i@2333.moe>
+  - Yash Ladha <yash@yashladha.in>
+  - Yongsheng Zhang <zyszys98@gmail.com>
+publicKey: |
+  -----BEGIN PUBLIC KEY-----
+  MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtZgWSx//ArUuDv+jQkYP
+  gtzdtUwddKFgIe3liz5VQfLeh9Ta0RSX+stBDhOekGFa+a1T0T6jLwuZYC8TMD9u
+  oqzxWcLxPwe7SzXYMeSxrswnzkvJCblQagc/ABEWXCKwU9+g0SuVtrKQF6qPqOgL
+  JMDSVacGFBWMPk4Tvzt5ruTp0jKD8mRdxEmXjZXlIoO8GwNKltj6uUExs8rnmmde
+  cui4bM9Z18en5Ja2KuFkgI7HS4KPX+dsw8iVCbaOcQ6Et607KorhGXVI/xHNy2NV
+  HfVJvb3la/iLZw6edNn/m5oih7VqatJ7MGg/r3Ar/IxuyGtWxOP5MPtLTa9C2IjI
+  zQIDAQAB
+  -----END PUBLIC KEY-----
+encryptedPrivateKey: >-
+  U2FsdGVkX1/eE63ONyukw+0Wds4h0asNUGCa0PGo3Mohd8Hie/WKMVmlYBi2FjHqnGpwKt5aE8mwu8vR4egpgS45TPkBWHKwe+u526rBueiTHK6Q63TtUp5ixPKnYxECUbBdXxWGYug1NG8NHqbPL3C0pUzPGCc0E13pLFkDFcJcy0YLM4QBZa0d8UYs3N7PXumjwCC+PpxPuFW1QqCzpmahOUne3Oo9RcSzMCTDeFYX0l4aGNjSfTLFe+zUK8gZ54H2/f4vZfT7KfWKg81a53S+HaSBhDcme1GNtJPcWhYQeXChJHO5E04TWLvfkPC1mCAzZOHtCVvImxhshFkL1QbW4Tv+B5gAnqWUa7BqtO4/x+wwr5Rl5fR2I+JwsHHaNrnwSzL9MFaMi+HzD50acY+kRByHygheLD/YW5S1+MavLR/1NCVVKLj5l3eQkmccWJAysXfcaiG6fFuebKKRwSRhE7XYLLAlCk0fnjOl4Xi7L4Nl1giD3fxctyGZU/M2ZDuzA9QFZZsGKeqMetXr+4nVNnYe4U6+cGT5aDCqq+QFTvA/GIdDRxl4DFH81GMRttF6oT8QsSyC+Y73KNTOVsulzUhGBinsmWO6ZeNu2FIb6NDrOTPF9zI8kh2u4SiLIHA9vmdj1RGRTnshJ1a402OLeBaVvl+AHTNpgxlhUQSZNRVSeooT/MRWg2ALQZbdtWHB9nYOtMiHlORjqGSUbbwDHru+QZ2y8MKTcibBCQ/kcYtzYLi1i0ReV/127mIBvhaNSo8pacPzHcHYjFs0VcJQqys+6ICppkqkTwC5GgH/gV+lAM30YrVB/f6yHTG0mmDLT+aoxOaVka/Raeuf4YgK9VbE9nk8QrVv9kDFcjhEITAb5HG1uVS5/HrqZBOUe8S3tkmIqHrrcdNkMRYHdLRBuII7fRLRdkdE41AsopPcNUO/klH3mTx3GgROiTMaAVtyWZ+vNo0JQR9l6LNchK+CqkQaRUBM6o59/1+XN3IW0Nd8PUFQhRl1JaDAFcB5SAWh7qPL5mKUsa+W59oe9+KQHlD9nO1QEV/zTqZybQtR94EDD+YYgMDcXjgUTyiV5A+RWlLuQlMzyD7mmvsHR68rP9MrVDa7uv5Qhv31+6Wcox2Ua5s6fMiY6kgvPdUbF0ZULj63YUlENMPzwYLZrl2p/SpY/18W9owUEbV1vm88OU/Jx6XqIbf+PTkFfgZtPl3n99YyVri4OQkjZDWFDmnwlW0m61YImZCfMB5K7FGc1gElIKuxDyCHZnfM2XM+6qpFjJ5bzWTginJN71K2ZBEh92pA3sXtemZy18lruW9LGGTb7PmCvXtYOTGMePR7KOacfwaS8zdws7TnFRK275lPk6LmDadqgOH+424mnwMEx0OTDksuzE1+s8yBo6G8b4+LAXM99ibwxdnQc/B5ox1TBPsDsNhaS/XB3TU2ywisRVOJR3lWpyOK/GIqgjjD4ZBGgbhXACJegOt5Y1gHbP02QlfzDZubofD4DcMRvN5rw362TpML6zI74fpLMjCiC1R7PyhNpDRSDqp6IZd38S4+YyAcaQ5euFGXu/c7bguu/Aqf8gbZYySr1z8j4AVft/LvzkMlYGIEc4fkpihcYFf7lspSyFHvFNGDrjnn4nTyT8+CIlTktPAWBZyEaet4
+shares:
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA4Xnr1TWhKdfAQ/+OtOvkoL1TMF07ndPyOBE6Ft2rIMM2A1tOfv9wNbD9Pcu
+    oOaAmNGkB0ua3A1kFg9qxIyMnxDwFx99OIjnz9dAL1sMJ3SWFX1Z5DnK5BGsDnY3
+    vy4TR1w+957QwdxWWXqWBjP7t4D1BXZVYqNbXJXWB6g1X2mC8CM8TBKbUoLmkeOs
+    FmgiphK3E4zJMnUEYr1mtsazNp6aY+te7UUuIk4aOLAG/+DZJtCRaECzY44EgAAK
+    g/o4e1Sa6W1r0wM1/R6xXLwS5IjCKy1AteWoUKOhT8gbgdIRkzwcZB8hHgGk45Tx
+    v9zzw9nayrHyV9+Uf6tXi0mlshXLzh8fVjZMszu0s3O4gMgkWRSG5BTikaPsD7We
+    BTz9zjvMSclfM12fWySS5EsTJDsI3UefIH9xYsvqrG0vVO7ct8Adchws5DIU7SQe
+    TrOjwu0cfGcRn6WHhsLUlObTIS5dc5YstUYdARLMvp5vsyY4dhLsXkbB4SZrcKdo
+    Dcv+lpn1ehMEYvxN0Z6bcnnFSGL3XFDwbCbmFxDS321BQw4MoQeLVXF+W9tbC+v6
+    GP0Vjr7dt8ZaeIXfdamkfXr6p6UTf2Hl2lB3ZqvVVaZTehMVexWCt6B5N5nR3ANv
+    c7y93VxEcjNcpJOuE9yZ1/xoSv9G20qdrqhZ23lCLY+I1UoSh0AjECIeun/tWC/S
+    XwH3/yNH06tZVcX6shEMfXa7HdYDTLcSsOtphH/SDu/XzEz52TLMJQcB422Q51eM
+    6Ud86fZL7Z/+6/qJbufWHXFOwenhsZRPa5omV0CjMOSsspVkA/G7zHk8KdYFL40i
+    =CfnJ
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA0/sPsybWWziARAAxAnF0PFPhEzpP7K6tPLRS/owpxO3pX7hrLEGEljB2wPP
+    XvjKAU+txszqkWwZpzUpzjgzJuhb6m1pEFlLh3wz5LC5s28LmfOtJf3y7hFLAFMX
+    WTyi5giK+W0mWhbX37Mh/rg8Bc14Qy5HpSm1TNgg5eiKEgSBoPo4N6sVGY+Oecy+
+    Z+84G0pAoPPi/nf8IYXMBQsnA6v0L9M+9676IL28VsTGKAdYsCBPCpkSw0ELzmgL
+    sI6QyY9YcSVcCYqGDjx2SHJx+GKio8rYQa4moxzoyYshhLjyigt67fvMpf1rv9EA
+    3Lk71FPurzGkSKtwMksq6OsDnLasKKzxJIAattGXHNuJLYyQIwqwZyOZFtGLLQzs
+    QTz1SgIL9fcBj12g9qBH+D6fT41LcqlG9H2Snng0cP193TeNN60pV6IXqGvR1XJ1
+    ZQdpTcYOn/bflyvEtc3XWh+gtEUIUMIUs0/G+K/vGjzT58nKsLhQNPekreD6gDzF
+    XV2tbuHb3RORLj8VSKqAMfWg2TNuRa809y3vitEuHtdVVegBL/tCKJCk7B8hfW2g
+    17NOfnvlkhGt3u+TZ6q7vyRTli34MrRMuFU7yycNvsFLN6gaAzupfq/v12keJ4iT
+    3JN1l0H6by9d6EDBdP3a9KwdK7JZPb1epM2ndUux8OVFN9E6ch35Y53Ho9VN//jS
+    XwF6kBbdGkIcgz165i9+gOAZ44Kjvi5zUeCt0yw0mB+DzzT8yBNUd63fkxblBcvI
+    OoosNFGUdABff3g8NE/RCgBWdrxY1X9zpnZiGi6ggLy4iB7k3GliWRMHZCpsCFx7
+    =qtya
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA6CMQfEFjOFGARAArfAtrYwE9JhXsj0V4uvDZaOpT9Lt3cOtV70ne2qDCAXr
+    BjfGug9C04xJQ+k6eia2qjLGpBYTl3OgsTJyXUDFqZqBfzNZMj8JySks5aJtH8t8
+    OHsGOPBRQGwyOfG9ubOBwVi/67L3nJs8qmU5L1iQJw5CpNimHiuu2Qa19iSweBu3
+    yFIX0jUIrZNtXALCW1c/MWm8gIyNdfVkee2kcOhQs5dcz34JNmuiof5pWsvxRQHs
+    4kU0sWScVsVeslqUyMP/s+VOzKUvLtNVPuDPBV6JGgDOIpamUtiTR3giNV0RnlVJ
+    dr+LmUb7o2i8xbJFxFqxjhrp16TBv5GfC6RMbAUgAI1FiL2iYQkGYRH4scIoh7xX
+    ayeS2EBB7IA+T3/j3CkIh6ydj+UpcYxTIgSZ91GZx6OCsJARasOOgjUCReAb9nGC
+    MMm2QF9WZMOP4s6bYJrhaC61TRsrImuAV0GXGhsogAAfJCyb9enyxwsRgf2n0dfC
+    otUAWaFBaNfHxW4O9F/uVQLnRvt8YoXutoWt90kvNPjBbUon1Y01YE9cS3fMA3d8
+    aBSKLWrF1GAQNk233/Q5C/ahKQ3JmXUHKLzcHqAHp/nhckTIpJ7F2zOIYPY6eoeJ
+    00ET9FrLHisWROP29RP1gtyDKG1TXnUl/MqokFtBAjVnXwg1AAb+dM1mCgoJ+kzS
+    XQEYvxg2v0cJqPNgUYRWA//K4tVqCBAABSGN63ICkZilUvJ2fe0WuDvIGJsB1iz8
+    tE8HoAC9Hy3cpYfI9JQFBiWGRunEGoC8Mj0xDHW9Dd7vQzvk9X7L6M8rdMxf9A==
+    =YBES
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQGMAwXeeSgQfz3AAQwAnFtD39P2OJiF0c0mKogfT5UkuNhtP8I56E4F2Kxmwhz9
+    lATo9fJF6KTNaBLeBJhhrTU3vOQlukAeuk3nH9wgC4gEKOsMlOlv4s6LyBMDZ72R
+    1ExXr4+mTch9yxZ9wT4pJMDswrQSYSx92gh8Y5H/oAJiZ7xONI1CQ73ncK3+t1h/
+    9025SOytbYVSgVL43UpG9d3cjdIFBlj2b8kneh7bv5JFtjE/j5UHFqiLyja6vSrw
+    yASXm9AU5b06//GYtKhEgTxnfKo+vwRKyUza1ZdWTJO/SqvKK59cJnDNqqAwii1B
+    5zjT1P14pakNRsQNPyLSVxzLrUHMOElatM0ZZ231RJ2jzCUh/n+2IQB/Rubv7zxK
+    JF3Ep4wLvu6jby7bvuKV19kbM+qxmTbER2UvKn6n5yQW2rp3jVZdoUhjkbsIsI1C
+    wx18UTovB224oCXwDQbLpNhPohX7cPn4y1CBhqsAHtdISAxWwo8L3uxcgV0EbKLD
+    Ek2XK4Uy3zfkiydPVqON0l0BxFnJYt8aIGRbmhxL/z6uJIC2Br3bN5jPhg1xSuPy
+    aM9hsGrqBwbKbz7sq1UWk5p2X4OtcX4QdRrx+QUeOIDiKw7O1/0awMJdruCziJFH
+    8nRELhCx8TrSg/HdhqU=
+    =AiPm
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA+FA9hvFl53MAQ/+KOctGCs0RXEdz5Iq4dDY6bNLV1pKnre3d4uDeI4Cjbk9
+    e+NAHdbS7271x8dHhrWXUS9whymv6nPHq2DUUNHoelNeV7SuWoYaA7+NIcAo6fY+
+    v4NHQI4B5PfFruTZHDKEiBssEeYXRG3gYKe8+sGjMFsdQ6thtz1KIlpZ4TZmj2zN
+    wujH6Pf68X88wN8pHYBgAIA3Vhl3mcJo97Nqk0qR2XIRP3Y7VqDMLLRRac84XYVU
+    gUYlqem88LRZq4BEoxjNOrAsqAzemvVKrYPaR65yUNqMjo04pjXmqkmxfbSX10L1
+    lmPVO+jk8ARgNlch/3BaH1Zr8J0xb8zCMuGDckrUHpR4FI64/FxPNoIosuF9GiqU
+    eWtbOHvz1E3DjhcWllsMKmvLP8PKa1c+LbUTTynn+SDN4muHESRzAirG7IeGVcZd
+    mNT3UWQPM8gAJQdgNXDQRzUDsOBQf9QbWa37uhsyD87h3leSAD5kYxw6e5ZzNfps
+    j9XvWWITPepnGjhbaTDXS6Ff/DcCH7FkrmpOIfGd3OBfFcvYslADFWg4l0rHhAdO
+    rCFprrARBCcgrLhLaFaBKL8VIcrX86Oeik7FukbcDbb/7z0h5wOAhT/mMvMuOiOX
+    Qn52/bzUiuiRhPMIIDPIIFuIu/LbQcClqPN8FIMFfiiB6td7dSTN+c57Nb0bqOXS
+    XQEW1AvgaXlKyS001mq3nhzF8XQbiNVlU5rj35VL6tEeXjgR3tCLU+7lk9NFudzf
+    OJW2RPn3Bupo1THQ2pdNiIFam6vVBKCi18o44iRNDbn5k9bhWrvSGLsK1lG7UA==
+    =PPP9
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA0cIlk+Ahd/nAQ//Wiu/mNpiz09WQj+6q9UQUkeFW+/r7TNNExxf2CgXDMSk
+    1ef9dSMB4KH17X24H95UGgixNj8EHCwund7HMxFDDNI1TjH+9RpwJ+OL43RN6JoW
+    33C19uUSeDw+3UNh1M8yeDioK08XDBWp8minHw+7EIYUPjMF/xmwiWnf+t6HVQQ1
+    GqnbtWfJWANIP/qhPhSonWdcmNrfXQYHbhZORSSbYKzUJxyFy0ZZK2pcQxckzVc8
+    gdCeF3lshTq1Ea/TkChU4Sr/ECcC81acj1oP+AdCnDaKKNN3lumFdKbPdE2bTTtu
+    UnhpHF4eWjlHD4bPhPyqaB/9P1lJAXPdpv+hS10bkrrdWaUytfiOyo9Ki1fs6ejY
+    Esdggqny7QqCjnT2F+/KPfaU1gxrCC+/bOWrkgPIweCt2IF2ZvYWhIqQ70cx4/HF
+    1jVejbezx+I987qC4ft0o6ALev7yH/Z3CqOAXqkxk90sWFU6l3oacQObELU46eBk
+    AGSV+SHBy0v5DCphoiYDy2fnfFnfRW7LYN6kcn7thmirU2SF6X2vZ9GQRiLvS6nJ
+    MYoSd2MDgba+8Q+w89kNtothE+XEaAgZr8go+UHbf/P2+Ob2/e1zHbAQLzoRlU89
+    2HA0cwbGrWqk5Fn7UfeYVCF0KqUFK/8Lp18+hWrQhDj4yNIDeCqq/OlCOFTcAhvS
+    XwGAwY0lWDopEQ9zoPH+cvgzjG0wI9kcPFIbwLdu/OKzJByf9sVEGsXGLfC+DqBn
+    zH1+bJML8fUAzk5IVYu3lJalUu7gxdhpjr+/Mr/cBlcF6b0gqlSTZs+xhN2u034/
+    =xERc
+    -----END PGP MESSAGE-----
+canShuffleCandidates: true

@@ -1,0 +1,50 @@
+subject: Node.js Mascot Election
+
+# Please set a score to each proposal according to your preferences.
+# You should set the highest score to your favorite option.
+# Negative scores are allowed, only the order matters.
+# You can tie two or more proposals if you have no preference.
+# To abstain, keep all the propositions tied.
+
+preferences:
+  - title: >-
+      ![Turtle with a propeller strapped to its
+      shell.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/e32b03f7-ce00-432c-bf0f-8c23765e9b72.png)
+    score: 0
+  - title: >-
+      ![Green bee with black stripes and wings, eyes are shaped like the Node.js
+      logo.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/b71cec0e-dfdb-49c7-8aac-cc1d87f965b1.png)
+    score: 0
+  - title: >-
+      ![Green turtle wearing an aviator hat with glasses on top of the
+      head.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/a49f3a87-f681-4211-a9a7-4e66db43ae31.png)
+    score: 0
+  - title: >-
+      ![Bee with a green and gray body, loosely shaped like the Node.js
+      logo.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/5c602db9-98bb-4e69-88b0-ce1449c754a4.png)
+    score: 0
+  - title: >-
+      ![Green frog with a big
+      smile.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/e5d03fb2-e600-4178-97d3-7b3b7c92824e.png)
+    score: 0
+  - title: >-
+      ![Turtle standing up on a rocket, wearing a baseball
+      cap.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/01413d58-9bca-45d3-9117-260641013717.png)
+    score: 0
+  - title: >-
+      ![Black spider on a black web with green
+      background.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/a82b2374-7765-4703-81cf-974676971f49.png)
+    score: 0
+  - title: >-
+      ![Bee with large antennas and an olive green colored
+      body.](https://github.com/nodejs/collaborators-public-votes/raw/mascot-election/assets/1e80efb6-0f17-4be9-9b6b-f9d72ba10648.png)
+    score: 0
+poolChecksum: >-
+  yj1t/nh/oP/HxIIsGrNEHLSOcseUholKntTNsM4k1z6LxqZCDUcGIyJVBqdP50tL3Wu4S73jMt0TEUhUksTdpA==
+
+# A few reminders: 
+# - To ensure no biases, usernames are omitted from the designs.
+# - The design will be touched up/brought to life by the Linux Foundation design team.
+#   So don’t worry about overall quality, just the concept! We will work with the
+#   person who created the concept to ensure integrity.
+# - Only Node.js Collaborators may vote. This will be cross-checked against the list.
