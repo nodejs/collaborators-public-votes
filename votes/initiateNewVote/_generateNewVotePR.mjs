@@ -88,7 +88,7 @@ Vote instructions:
 - on the CLI:
   ${"```sh"}
   git node vote ${prUrl}
-  ${"`"}
+  ${"```"}
 
 ${argv['secret-holder']?.length ?
 `To close the vote, at least ${secretHolderThreshold(argv)} secret holder(s)[^1] must \
