@@ -14,7 +14,7 @@ const START_MARKER = "<!-- BEGIN PARTICIPATION -->";
 const END_MARKER = "<!-- END PARTICIPATION -->";
 
 let mdMessage = `\n\n${START_MARKER}\n\n`
-let invalidCommitReason = {}
+let invalidCommitReason = ''
 
 function* toArmoredMessage(str, chunkSize = 64) {
   yield "-----BEGIN PRIVATE KEY-----";
