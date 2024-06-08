@@ -1,0 +1,14 @@
+subject: Test poll
+
+preferences:
+  - title: Bob
+    score: 0
+  - title: Delta
+    score: 0
+  - title: Charlie
+    score: 0
+  - title: Alice
+    score: 0
+poolChecksum: >-
+  T8Y89Hkl4UKPSkvPpztqpfPng6nZrEMTE1W1q8vEAl4JWSn8LuTm9mhkxG6pbCF/0XRigGa3Foil0bcUJ7iw8A==
+
