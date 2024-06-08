@@ -42,7 +42,7 @@ jobs:
       - name: Get updated vote status
         id: status
         run:
-          echo "prStatus=$(./votes/initiateNewVote/getVoteStatus.mjs "$(npx js-yaml votes/$BRANCH/vote.yml | jq '.shares')")" >>
+          echo "prStatus=$(./votes/initiateNewVote/getVoteStatus.mjs "$(npx js-yaml "$BRANCH/vote.yml" | jq '.shares')")" >>
           "$GITHUB_OUTPUT"; cat "$GITHUB_OUTPUT"
         env:
           REMOTE: origin
