@@ -1,0 +1,28 @@
+subject: Test vote
+headerInstructions: |
+  Please set a score to each proposal according to your preferences.
+  You should set the highest score to your favorite option.
+  Negative scores are allowed, only the order matters.
+  You can tie two or more proposals if you have no preference.
+  To abstain, keep all the propositions tied.
+candidates:
+  - Alice
+  - Bob
+  - Charlie
+footerInstructions: |
+  TBD
+method: Condorcet
+publicKey: |
+  -----BEGIN PUBLIC KEY-----
+  MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAptDkPZpHl6mPUJZuIJnE
+  hmcsjgz6c/slXXVd7wJNxHURIal5UXPsmEPFzzVaL9YKaxUgfLTbEeYLVTLZjEU2
+  6Wdv366ghT60kN5a1GAdrBagHG+f5PfT2yv+X4PqUqoTG0AH7S40/vlresRb82Yp
+  bF+G0lI1F/uQuNtg3EWOH47m2C8eu/+l9Aoz3glNkBO462tDXdasH06vpsVYHxeB
+  jtQovcbgJui1Wm8xggTZA4DReucfrfPc2DkVsk6nsTJfpkG6LTUddaTLR85hWyuL
+  aUCkEdbf7uasW7fd9w80yxmRnng1maJHGM8c4uoUGoMkWJustfIIIJlL8tVgCoYP
+  9QIDAQAB
+  -----END PUBLIC KEY-----
+encryptedPrivateKey: >-
+  U2FsdGVkX1+E4lKZEax3Z+fCPzlBeKmuS5+rojrSVFW2kTLjCGV+rBToSpUoG25FzpprLBySjO1oR+3G6JNLJTM41IW6yfGNa26nlLeWHab3YlmupyOgEWtKRH+uwjoFQWGqYQ/OYctMQAMpw82GEk7U02nXLE1CUCXqimBHKfVAoh6EHtYhUXmjyF4zMlPVkDFFzpMhF0esiqVny2TwiU3EYw9qTyGqduplm4qe0H2Ro5Qx53ya2gjONuLJvilKhCHk13Pq9mCmkyVVnrYNJo3v7e0ppa5B71FYFMEgcZO1P6v9KhQKlo2rUjO1IOXUDDadth+ELC1sSY8HXkVT51DBh8FnxYAV+HQ4OQmlhsZQFlojRapy0sPH/o+BpFduXiF7Y5jQJHec8Un+cGOieA2oI499jqJvFhAWriqx4+VebJVQsKHGBTOm6zWjv2HEJgaXmrL4P0e0zxbxR7Ac6Dcc0V/WPx5ocJYnggVjg5t5zqnurdtHFxlP1MJZoneIhrRskLgZDikus1DJfuJLwpvSY1Adg5syRJNWfF8NzCxiOropjr4cngCotvxXkl+5tc/IwIR5n0XV0DpGF+oS/FvG9Vf86kYDeP1aKNJ8qPaBoqjiEy0Ea2Q8Cq8WFzlDkTNvlEdvg/HsMxCUBm2kMawdU8fkM3OZCX1GSiOvpIJS4foifyRtGALrTLEQk6ZWPBRvnVp8E9rT2i2nWKDkOrWmZBiWtGmv55xEwcDqQb5180MbsGMbVCv6L+1bAvGU9tzwwSnd/CfxQGF1yfwsZ2zJje74d5VPi4Sn/BnhB/LPmu9e0ikzCzXJtfY6Lnox3OazBhxxAInmaY0+SKj5/5hp0pVuLQJPHZDN+ZlAaW3DU+148S++hapxm5xUO+vTsuQmBwLfsQtBPOE89MCC2kVf8V0p31rUjel33+z3VFTLQ6e0PedZQA+1bHn9axunIJ0AwVeCuts6VnCfqouQLz0PKgC8rz3h1LQfk8ZkIO1Z5GTSFtyumF3Ipt0Kg3f3ZtXzSrtw+DDU2oBqp1V9UxVo+/lHPHiw1Lf02DCrySQsPbsogTSLvAP+Oq8IefmSBZfrYp2fbyrIKmR/BH0q/14xBq2sxGfROjDdKT8nf5W6t0LRlkl3PLg3PHu6NnSAXvayQYVIj0dS50HuPdf4pzC7JeT9mk9eYpucoHRDWlVzwned/eJg35J0At/nOzTVKkNbsmoaEYdMVexJAhrMRatHJFQjI/W7iX51cF0rWSQHt103ykPKviNKfCOkyu3ch67ooQqen9f4Jptw1kffzu9sGMGmNimafXd/BJ2dipZ56DltyoEZaYYuK1Kg2yYoOA9gafkVTAy04ZzoOig034FzrhYiQ+yo4NfzTiNBm+K5EGj8WCW7L8hfhOSHymDjXaN+iJ3pCZznOhx601uRPc2R9T9DGkmXgb+Ycmh0zsGoy5w2+dvcVM84TiKENIquZ2emsO7Zz/8qoKI9I32pe6l8IrpFK/ti/UYylu/xfX6gPp4/g24TdT96KUiqWiVN0zx5Dr1MkOkV4BaThNsZfHKPm8kfDqsJg7gpBLmTmEiajAwBAd8brFazRETWWh6j23dB647s9dKnoCqXgSz51t2RpzVqanHAP/CGm6sGG5wzTFZS1aH3M8ffOYqo4BAN
+shares: []
+canShuffleCandidates: true
