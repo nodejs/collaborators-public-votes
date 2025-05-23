@@ -1,0 +1,37 @@
+subject: Pride Month 2025
+
+# Please set a score to each proposal according to your preferences.
+# You should set the highest score to your favorite option.
+# Negative scores are allowed, only the order matters.
+# You can tie two or more proposals if you have no preference.
+# To abstain, keep all the propositions tied.
+
+preferences:
+  - title: >-
+      Serve a different logo based on the visitor IP address (based on location,
+      it would be either the rainbow-colored logo or the classic one).
+    score: 0
+  - title: >-
+      Publish a series of blog posts outlining contributions from voluntary
+      LGBT+ contributors.
+    score: 0
+  - title: Do not take any action for Pride Month.
+    score: 0
+  - title: >-
+      Serve a different logo based on the visitor IP address and publish a
+      series of blog post.
+    score: 0
+  - title: >-
+      Change the logo on the website (on pages where it appears today, i.e. not
+      on documentation pages), create a public lock issue asking folks that have
+      a problem with it to write to report@nodejs.org.
+    score: 0
+  - title: >-
+      Change the logo AND publish a series of blog posts outlining contributions
+      from voluntary LGBT+ contributors.
+    score: 0
+poolChecksum: >-
+  a68pMMUc4TV9gdWUXOYTE7oP4uVDUfxCoZzGIE6Uxt3/icm6lz4z2edTPLqfFquQPUeFo8VKQktbW9TP2imIlw==
+
+# Pride month refers to showing support for the LGBT+ community during the month of June.
+# Whichever option arrives on top, it would be valid only for June 2025.
