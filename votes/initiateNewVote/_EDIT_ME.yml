@@ -45,6 +45,11 @@ footerInstructions: |
 # 6. Optionally, insert a brief introduction for the vote PR, in the markdown format.
 prBody: |
   This vote is open to all members of nodejs GitHub org. The vote will be open until 2025-05-28.
+  To make voting easier, the repository the vote is taking place is public,
+  which means the information of who participated to the vote will be public,
+  however what you voted for will only be accessible to TSC voting members.
+  TSC members shall not access the content of the ballots except to count
+  them once the vote has closed.
   
   Refs: https://github.com/nodejs/moderation/issues/853
 
