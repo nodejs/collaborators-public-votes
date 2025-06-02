@@ -25,43 +25,43 @@ headerInstructions: |
 #    there are.
 candidates:
   - Do not take any action for Pride Month.
-  - Take the following actions
+  - Worldwide logo, no blog posts.
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages)
       without any IP restriction.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
     - No particular action to take on the blog.
-  - Take the following actions
+  - Logo for some selected places, no blog posts.
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages)
       with IP restriction (allowlist, only some geographical areas would be served the "Pride" logo).
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
     - No particular action to take on the blog.
-  - Take the following actions
+  - Logo except some selected places, no blog posts.
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages)
       with IP restriction (denylist, some geographical areas would not be served the "Pride" logo).
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
     - No particular action to take on the blog.
-  - Take the following actions
+  - Worldwide logo + blog posts.
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages)
       without any IP restriction.
     - Publish a series of blog posts outlining contributions from voluntary LGBT+ contributors.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
-  - Take the following actions
+  - Logo for some selected places + blog posts.
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages)
       with IP restriction (allowlist, only some geographical areas would be served the "Pride" logo).
     - Publish a series of blog posts outlining contributions from voluntary LGBT+ contributors.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
-  - Take the following actions
+  - Logo except some selected places + blog posts.
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages)
       with IP restriction (denylist, some geographical areas would not be served the "Pride" logo).
     - Publish a series of blog posts outlining contributions from voluntary LGBT+ contributors.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
-  - Take the following actions
+  - Blog posts only.
     
     - Publish a series of blog posts outlining contributions from voluntary LGBT+ contributors.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
@@ -117,4 +117,3 @@ secretHolders:
   - paolo@cowtech.it
   - targos@protonmail.com
   - tniessen@tnie.de
-  
