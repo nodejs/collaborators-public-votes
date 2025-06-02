@@ -38,31 +38,31 @@ candidates:
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
     - No particular action to take on the blog.
   - |
-    Logo except some selected places, no blog posts.
+    Logo except some selected places, no blog posts:
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages) with IP restriction (denylist, some geographical areas would not be served the "Pride" logo).
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
     - No particular action to take on the blog.
   - |
-    Worldwide logo + blog posts.
+    Worldwide logo + blog posts:
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages) without any IP restriction.
     - Publish a series of blog posts outlining contributions from voluntary LGBT+ contributors.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
   - |
-    Logo for some selected places + blog posts.
+    Logo for some selected places + blog posts:
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages) with IP restriction (allowlist, only some geographical areas would be served the "Pride" logo).
     - Publish a series of blog posts outlining contributions from voluntary LGBT+ contributors.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
   - |
-    Logo except some selected places + blog posts.
+    Logo except some selected places + blog posts:
     
     - Change the logo on the website (on pages where it appears today, i.e. not on documentation pages) with IP restriction (denylist, some geographical areas would not be served the "Pride" logo).
     - Publish a series of blog posts outlining contributions from voluntary LGBT+ contributors.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
   - |
-    Blog posts only.
+    Blog posts only:
     
     - Publish a series of blog posts outlining contributions from voluntary LGBT+ contributors.
     - Create a public lock issue asking folks that have a problem with it to write to report@nodejs.org.
