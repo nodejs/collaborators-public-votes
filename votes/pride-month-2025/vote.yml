@@ -1,0 +1,249 @@
+subject: Pride Month 2025
+headerInstructions: |
+  Please set a score to each proposal according to your preferences.
+  You should set the highest score to your favorite option.
+  Negative scores are allowed, only the order matters.
+  You can tie two or more proposals if you have no preference.
+  To abstain, keep all the propositions tied.
+candidates:
+  - Do not take any action for Pride Month.
+  - >
+    Worldwide logo, no blog posts:
+
+
+    - Change the logo on the website (on pages where it appears today, i.e. not
+    on documentation pages) without any IP restriction.
+
+    - Create a public lock issue asking folks that have a problem with it to
+    write to report@nodejs.org.
+
+    - No particular action to take on the blog.
+  - >
+    Logo for some selected places, no blog posts:
+
+
+    - Change the logo on the website (on pages where it appears today, i.e. not
+    on documentation pages) with IP restriction (allowlist, only some
+    geographical areas would be served the "Pride" logo).
+
+    - Create a public lock issue asking folks that have a problem with it to
+    write to report@nodejs.org.
+
+    - No particular action to take on the blog.
+  - >
+    Logo except some selected places, no blog posts:
+
+
+    - Change the logo on the website (on pages where it appears today, i.e. not
+    on documentation pages) with IP restriction (denylist, some geographical
+    areas would not be served the "Pride" logo).
+
+    - Create a public lock issue asking folks that have a problem with it to
+    write to report@nodejs.org.
+
+    - No particular action to take on the blog.
+  - >
+    Worldwide logo + blog posts:
+
+
+    - Change the logo on the website (on pages where it appears today, i.e. not
+    on documentation pages) without any IP restriction.
+
+    - Publish a series of blog posts outlining contributions from voluntary
+    LGBT+ contributors.
+
+    - Create a public lock issue asking folks that have a problem with it to
+    write to report@nodejs.org.
+  - >
+    Logo for some selected places + blog posts:
+
+
+    - Change the logo on the website (on pages where it appears today, i.e. not
+    on documentation pages) with IP restriction (allowlist, only some
+    geographical areas would be served the "Pride" logo).
+
+    - Publish a series of blog posts outlining contributions from voluntary
+    LGBT+ contributors.
+
+    - Create a public lock issue asking folks that have a problem with it to
+    write to report@nodejs.org.
+  - >
+    Logo except some selected places + blog posts:
+
+
+    - Change the logo on the website (on pages where it appears today, i.e. not
+    on documentation pages) with IP restriction (denylist, some geographical
+    areas would not be served the "Pride" logo).
+
+    - Publish a series of blog posts outlining contributions from voluntary
+    LGBT+ contributors.
+
+    - Create a public lock issue asking folks that have a problem with it to
+    write to report@nodejs.org.
+  - >
+    Blog posts only:
+
+
+    - Publish a series of blog posts outlining contributions from voluntary
+    LGBT+ contributors.
+
+    - Create a public lock issue asking folks that have a problem with it to
+    write to report@nodejs.org.
+
+    - Do not change the logo on the website.
+footerInstructions: >
+  Pride month refers to showing support for the LGBT+ community during the month
+  of June.
+
+  Whichever option arrives on top, it would be valid only for June 2025.
+method: Condorcet
+publicKey: |
+  -----BEGIN PUBLIC KEY-----
+  MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsb6wfws7MbqZVQetMYM4
+  iK3wabxidv5YtKF5UPrSQsYIoZExqRxo2e81A9jz3pJBRtEZPMHWCuX1NvLWSefa
+  BjTxLy77eGyCmkGVJLQvIs1S7yRd/bRphfNmgUp9VpRayeCP6ZDCjnVvSQDIEGvc
+  XonZDZ41tl6d1/GLOErGrCPTDybzqvE54Ee+oML9hZityAd3QC2ii+r5tuq8q4yo
+  ERrOBxEZBzGbBU3Zk2OhTLlC5oCzhI83ceV8PODb1S0BO1AdzICZbWTknikxkXCt
+  xIejJ5a/VbopOs4XBg9NVEeX1c6zfNIF7JOfRnFGrY4OZaXezUxYDTM2XiXLKBBr
+  KwIDAQAB
+  -----END PUBLIC KEY-----
+encryptedPrivateKey: >-
+  U2FsdGVkX18T+As59ZZwg0n66UAKSuZ074TeNaO4CJwQNYDrPmbaPuj9NcVdqll+BU/oNd3QhZKZsQeG7AUfvbVihrAnpxjvn398hH7yyu5e0tm/ss6WGsYeq5xzXdpugKR8hotFsqUAiJ9zOpUiHe41Tb+ZWt7GJM24EV93A5p1T+hXB99fsKiS0I3PtHkPAzdjlFedRraPm2ROWVEgXWPX82I7Xm9THZodoInOW90r3Iq+Iki9CcVLjZ3KqZK3mzcsso7YOBUGUiMtQjaLNLcWp0ztP3ZJrg9I9lM/nPNXHUL7THRyIrEcYhrPKmZjWoSfnez4HPtX88yuiFRAZoiKB38Gn8LWSNt8cNdJr71F5NlsfnQDHOetp30HgmY1vPcP/WI68boVsIYVsEkuwKd6AaLNnNh/EMoDj/3P8wmLE7Nqne8GvBGQQV2U1dZmb7M5RYd7aYKS8zHQXMO9/oVdXmuR8pV25xDL32fryQ3XOFfE8TjinZk7GCHgXMJavdUEX3CFYi6Jff4xAvwpUmdYyuOw7Z4xxBzltwryzP2Kp4s9j+/ZzagC2obG0v2zModf0n9I9B5PM2s+Djv22aNyx7SzjcfM2nrjWlpvH9+GA8/yFBT51a3QDAOc5rW1dIKPlI3qimPc4RHb3k3xIxNkUdsuCJ74ngMZql+JLbqtEuE6WEc9DCezVUnt2d/oZuJp/e8ghMGM74WixY495XtYmHSqGGKxR/WaTTy+6jCKnBnObc0yrWPZ6zYZoP8LSTWPLIt92wnBcnm5f/0/ywXPt1TCXkjKAhQ2YAZpdWDrohX1cmUHX5YJoFsEeeGq+gO+6rYG264adiUMeih1jG2e8Kz8UC89R9crsyVW5m0C/sBRYR+uiSES5gSXgmnEP0r8T6/b0ny68GfgEPMZdieHFpItZkGeqOXytYZWgAKeSEP0ccawNS2d2q9+UE38y08qSOx7+XhgqjsvKWd4zdUbZvEyyFeTERieLq/tTFLbvNoNJ6ZabkoL9EdutbroPi265TimdJ1Vy7JkSuMv7ZRmVshDHWTlEcqn2AktTTCfhaiKfxSCOR/qMOGAgycuF3Bxah5gqMv3lwAYz72/b1K5RL1j6n5PSA6yfpb+6QBqJYKtuPeKguh8hmCOc2OKhDF0NUqsrMWBrNhvmnbnP7cN2oKfuTZ/4Ie4l170fIGMrb6zadAjtUYOo9ESipyMdgEQ8qixX4/Yru56xISSZUwosjaH43SLxvyFh7/S4JfE3aUhYEb7ArIpwXSdnpiJUsK+9rHtOfDWKiyPAw65nkngDfnZPtk7tVPU2T9KLCzPzEozuFy0GHkibA8bTtFmnDsueJ82wlfgFQB2iBQr04ONso1EBEmQmHG8XaWHGyaFLHl8nb87thioIOc+5y5gU/CEOx5JQn6mOEE33BNiFP1eJmfV6jrbMSuf26ncP2d7KcFl42aessCXrWSf+yRpS/vdxiXz5/hulyJtlfLuSS7SbAhy6FByAc7xSyjIY01VVBVf7t8sjEgRhkIIILdwmESC5gZniNHrrCn0/pPEa6Q3vXdM7DBMjhpDZG6T283w/iq+LmYr3MntNvuAj3kyCgHfru0X6rSjaHwCBygMNc5CgXF89RY2H+nWm4+A+07mA1LWN6jdk5JmfNXbMxtC
+shares:
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA4Xnr1TWhKdfAQ//ZguE38JfRk1p8hDF1xVqlOEY1njpcaDAr7UXEclanV1d
+    d0Cd01G3lCzdxP55eB/fa9422/242V4HAtI33DPTDpfqgdcN+YBOt5sFq7Hq89iv
+    +8gUDQ7K4r3LM8K3jF6zmib6ETd9qPwaVKznhc61d56YfSLNZ/JUrKYIGSj7rf2/
+    E6KHU51HYbAq0RgVTXmznw8UvjGKyhGGE4K45wF2uWjZ15C5HYxKXwQVP5fLPsNo
+    BJ3eZGcTEG5a9ojUzFusIuxFKiRrBXXPAOc254Jh5cWBmTUBtxZWb0UD1wjlU/MH
+    SB61QAsbfjFUNxOBt/bDZgSE4INDZqJuTUYVxB0AhqF4gHwxVxpSCBJ/UWbW9BLD
+    Insm9hkMR4Ds4aGSG1G9rC3kUPft07KIc+MFb//DBKeKs3TTWDkz6AHiZ9wyQz4D
+    4ynQ/BZA6ee1coqa6Rf8qThwq2k0oG64wMdp1qWyPZGeOQMoMkcCwj1oCdaeP+CO
+    Pfb1vx61aI8r9oDeLzjssM25d7lkQIzptckwsfx0jbGyL2l+rPOicelA3dnBEejY
+    3S4rNgejvCCvAGLzqD2SK25Kn4WhT2eHm+uBR+6Y05/8zbTfyAJjnNQN8QeB4wa7
+    ocm6p50J0Ijx/14Q1FcPndJKsOgo2oByFSnvE31/X56tmjRR1+ts2PjHSJ6uFV/U
+    ZwEJAhCSKQoXW9z6xCU5PPvaSck03GY2nEJWx5NhPvktTumXuDj2T7B07PdO2eOV
+    QOh1M10xFu/onTCJ57mG2ZegB+RLXZ++viBzviuucoF7bmJgt4mAJd6LEMMQR4D3
+    6lCXHGZA0h4=
+    =OBMM
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA6znxcte3baSAQ//VOuiNO2Q1RBnwEbT4LGYzHfHT2Qrxo1twZLS08IppKFT
+    TWb6algAM19MVsCni+TVUkCDWmW/EDDyGRcsbqNxGa90+qoD2H69S2UcN8MlVzBR
+    Vbp9u57WdhxvFDR4EN4g7S5wzwB3zTTWcvPD7HZwyL3EaJzzsbxNyWVTpDeueDHm
+    B/n6rsWY12Gvc7+GRQEu4ObzOrQBLGvU13XUh/IET0k0bXtc03r+ZAlXIjMPPHgP
+    9ay9L7oSmgBZsnLGfMbkTUYei5vJNPUCduFbPiRHBxBjV8UUHBWalemYp0qJ8fG9
+    ffp3aHt9TtiqXALDNQ6M+wgaNXzW/tTAO5WZwlTytoy/HsksCKEnee+lFh39qFtE
+    U6PSrouEmtTTeXSZ9ajOBTVpo6ng7BcMUoqUmCPry6axmFpYlm2W1uApIHJkmSkn
+    GfSOOaukZbzR79E5bIuUR7Zhfb6VsZ7m1vv05JzrAVpPky2gRB8kFg/3VviG1dRM
+    X6znm6au+JJ55Ng9Fu1BOVTH4ZDSdgOf4mX0uxEVNV7pR2KY7NMTHMOhpJ7N70J3
+    FFTlPx1qoWHUJkk3ag1gZoWo2udpgyGaEbJfuAjOL5ll1ud4EMmFRqoLvLQvv4Tk
+    0nOWG+ZZaOLVevmIhUN5FYisj6Fi6JzhvJEQBzBR3KBkImL9UT+d2kpmon2Eie3S
+    XwEA5l+pn11+UGW8sGElCMKMeEmB5Us0WeRx/duktD+Qj2PgD7+GSiz+OxNbfm9Y
+    3/2utHkVMDPD3ZivcD+ek/j/hgfj0U9YpnNhNlYWeBW0/BxStpsD1JWY9hUXY5o4
+    =4xEN
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA8Crf6Tcj0BjAQ//ZhfAll8jVZ23I9GrvaoIVB0+c0X5G7rCJOESRb6vZISu
+    0oT8dLJOtzCqs44yF9BWLc7Gzr5HLL+EHQSMqAMwdyVnqYEgYm0Q+OtMAtRXQq+1
+    KvObyK5qKCJtuZM6iix0sRlI3io2HEuDEUKFpTer8r0STkmzK03iMb+/regYI2V/
+    dP5s8PbxjKhoeNYGCsAqbyfVbMxE4zOIyqTxP/f45MTvSjnVIYnQ/GPe3MfklvP8
+    p9K8F9mad4VAOKUijMGvKs6cc84hlDrs6z003BXzS/vl+E9g4rNcj770ME6e8+EJ
+    8DJfSrALXYjkGAtVnAOdsFDPf0H2f8X1mOk8sK2PqmJWchsUkh+x+X3p8VI54gLg
+    JHo+fvOv1+sXp4fWWjK2bgFGUNm+qoG+6SQnXlOF59+30aQSJAie2kYi3LhauA8T
+    gZxFQ7RpYg+YzGxB1Xq0uzwiAst+MX/3z+DzSYEjKamIXfM7Fy11HJu7ouYkgx6G
+    mLluzQR7VcLDXx99HfG+RDi9ykmFikRupQEWf9J6Mk+4uPM8b5hNUn6k82vxf7iv
+    4MynapXpP0W3IWbxAvntas2cptdmBsvChG8R1C0c+a9Aks+E8YGDJC8EfwCFKpHX
+    ThDqYkN0PPYz2cS+lFouknv5hPvyFzBxFEOS5OudgXBAOqzs0H88IsDgmzQ0ixfU
+    aQEJAhDWPc0toJBpfw2S/6MhAUA4uZzFNrVzbOJvrN0H+JiWPD2T6Nm2x4uGgDd+
+    qs4nX+38Se7KLbXZcCZOJ9BBEEvMhSrWKeKL0kmsHYyK6y+apilBDgVd+IXl30GB
+    ahY4YrFff3H8ww==
+    =IoKI
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA6CMQfEFjOFGAQ//bXLocxCSVBvQae+QSUbTrBKAVLQ48Fq8ni651/DzJc/x
+    gcTipTMB2YmV+WFJ7YX7H6Hp16A9vJy9Kle6ZEEDj0c/kaqAvo/A9bcoYpIJlc4w
+    LTptj2rzwoA+Zcm3+1DqZoyAH8lI79ww1w+DqwFTQTmFzxQP8cjRDESJqGyS6pZw
+    upp7qOTa/DUJolTalSTR95OpEignT9cXZ3AlAY7j4wI0kBN1S98vRv0jkSlrQbKS
+    dt0PiE1sl2u71/Bzg2B+NyrIdn1AVE6e7Z0XbeMchtznWbTgwvKaXIbIKrDqBARB
+    1GSR6fBziObrLCHlFte75pZRkXC9zqFTm5VwhcbtRXPeBZ6vczKVRpJMVZij4mnV
+    r6oslVeFKgffaS7J0/xZUm4r7wo6BLHpz8vtgTnysQeOM/7qAmhBz1Qyse1hbPH5
+    PM5dk6EIEIC2Llo63zcj+prs+QkPf8OrztyogQxnEmWQV7SdWAX4zKqxalVnETaS
+    E5RROTrEyZbvKMhpXNd2yyg6rIKkqGplZKA/IuuNkkj9bBAIOTdmdY2u6zqVCeWb
+    BljoF6wYyVyt6gZ/yp/x8InDvihY3GFr1oDBuQK/3scR69IOKmrZTM/WGuhMsZVp
+    SVeBiJKYmhAGjsTFGr736AsyUjI3mhPiFFSyCdjEZBK5xEn8trEaVwEAhbz9/XXS
+    XwGc4EtRGMMAH9UY1ChYyklTSo6vCBpffr9wzCKLoHUi1QWzKey7FNAbSvPnFFzs
+    /FUzsON/+K3mYXfP9GE+Uzam9/GsrnHp6tkFG+y400zJzpL9buDfCLv2LdwC1fGe
+    =dLTe
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQGMAwXeeSgQfz3AAQwAhRLGmFVAdVAkBKGT6zOiXBor7gLJihOPG9Fjajyl4mHh
+    AmJK0RC7vdCGtias9xAz3TwY1iIvTisOD0AXlQwLYC3VVZI6Q7T5nFdXHZ3VzVok
+    qO7m4HsCRkLxj1yTOaRvVWj21ODeCDNUx3i024izgf/PNqnRJsWkPw9Fv2OcdbnF
+    SUaHOvLvfK5rCE2bNYHnMPh/vaF/dnPBeh4muLItUFLqcgZQAqqnAYe/+HKpKeoO
+    O5vO3ZJ5N7JJIGBVPoiIvz6TV30iCEPe9omBgRdh8tAWXq2UY4oLMbyjF3eONznp
+    6p+/BQMFBLhgsGt5QmEjXpV2Gbb+PX/g2YZ0MGaRhrKcZ4uaxGbopgesaobkxrCc
+    48KX8jK32FamugWzJ9ktPsaiCQJV1QxiWk6TdwfW53O5LLcRDM1vgNYjALKrnm05
+    c4DTY0nKfWsx6taPY6ODkKJLrFGhwOGqQWRK6XkFDBpgPy5zfI8sA8itA+zuP/os
+    4hdUOTrV4yyn00KODK0L0l0BsCaseiVEAbDBOV7fkpU/V5ihzHa+IJVeImkjuOY+
+    QoMV1Wz9ABs5xVWBy7b9Z4YlHQ2hNeBAY8urvX3mVaIHM9uxtDHr2qbf4b2NvOsC
+    gy8EebaZr6Y2m1vKE7E=
+    =ANrU
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA+FA9hvFl53MAQ/9GNMRtnAk2NMv/ulan8APz7xUcO61XhTCmqcfG8ODQcad
+    tLL3rc/rHByVDYdP5FFBstacSywxiKsiKJiHOfp6pfuNdCx0YGNkqiM+aKmECsL5
+    qy72kjPSrQT7E1LPAR4HrywI7XuPb8zv1Ib3wGRK3RAK9TT3YxIT6JG93i1hPX3f
+    lYoOQf28nQfM2+N/mCznHGhKlFquJ0rQLVjhpPPamrHM/4XiK9rr3PeGmTuapdc5
+    SyM0P0D+ThilxAY2DMQyCCMMgRt/AhI/eNDO3B7ouDHoEsdS7A9x0ARaOhvCmWzi
+    T/RyPrl9CV3XGyEEOlJItMqUKnttu7W0LqDVn1McnQVQmcCJPqQfczKLIbLnd3pt
+    wFofWomParTHqnDvtL90zH5TZ9WAAfYTEdyy5lUcmEMdztVKecQS5v+I7/1NrRcq
+    SbwVp/7LOHGdY4zIPi3Uxqg2wUYBCa7XmSAatC320h7+W4ACMZ+S3CE4P/5OaDyZ
+    BZ+PSIMlu1kRQy1ZpCiud7T/8DLoWO8XHfZD69SIgO4QAi/o6GqCx88vbT1chu4T
+    obTcdDUT6kD7xMqV5ALJyV2prLynbg/qPvyqPyhilPWjl4utKwpJcsZAksehI4gI
+    bsbIAWa7mP6rwFoc12sZVa+/KDNl5LFhO3nqeJbZG9q1SRum7MuBE5vwPzc6M5jS
+    XwHzAFDmUP7k+kdq3HfTMvUmCkSajnL1zGhW2j3gvEfpf+N+lAHVpcNjYc2PsOUN
+    CpYfCXbSMVVzGJpM5Pa6cIPHyh8acr2towg38X+Vilos6QPj8ahxe+IK6PHHTdD8
+    =jUWa
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hF4DzhK1FiFqLWASAQdAjnABaxcJKcP++UY3p/hWYL9wFSixaXvkW44fBqLbVFEw
+    vAfuvWdSniKhx5d90S0ElkA50mm36NZ+McVzbswU29NUcwzcXUe65oGBDzhOp8fD
+    1GkBCQIQIw4zF4/2ggm06lJdudGMGpErKHSHMIn/E8xiCXN+53M4tFMTVOKw7ul3
+    dt/Op4u+6i/yVRDUlJJKdSYtR0LA5S/Llgxv9BAa5fubHvKpgxB1V6NdLp0zEn4B
+    /ueE91olCYKijsA=
+    =kuY0
+    -----END PGP MESSAGE-----
+  - |
+    -----BEGIN PGP MESSAGE-----
+
+    hQIMA0cIlk+Ahd/nARAAu+LuUfkXzw5885qe+u0efVJs7gYFRE3bR/Vlr5N0o3i1
+    QrD2MfFcNQcOxFanpvlXHx/eUjuecR9xGOneos01+MVlKcGeQI3+bCrUQ5HwcRAU
+    pd6kLGh4iUEBSaRyqeyn5rsIi7+pGSOdfkbMdjyGCpk4p4QshNrmZvn3aSohxmuv
+    JOH22mjleHQaOnWSysYlJfA010kBDjIgQgEl0TkSsakd8RXlw6MKszyhgriMzedt
+    AMDW5SUylhO0rLvrn2YJXyZc7380UxeEbNBK+qep/7lax0+GsQimtNTmJHIrIB4t
+    VXgPY/zlMmajyU5mHoM+qBNcIT/lknix5JT8tsiz5p/fTK11DL6yFYLaF4jE6itD
+    QWCPGpKTm1QqWFcXp8UryaYWcd9yyg7pS1DSWHwFRSQ9eLISrMpxq32ipfPuPjRe
+    3ReOzxoMRLa2K8IT0iaX/QoFhvKrfQ0VpyQKeKdYCvR35UdbybxZJUTs+Jn+pSEE
+    iNtgvHe0QQnnjTBY/DTS1DxkD2208dbsLDF3sblUf+H2PH+AXLXZrc5cJj/vqJYb
+    Q1WldAGE6xHXsNhXOZsRE4GilX6GlmPcPAhqrRNWznHMPzP+0ZLC4GuQep4JcYFa
+    akozyg2pMRVRvjF98/+fhtlq02KxrgQRThd0FB5xhNle/pIxgM85l2Oty/P3sgTS
+    XQF9ug8fwyahWPvFVaDsPU344iFTAXV/efUdB0T06m/LM60fcsu+RxW0xmJbUORR
+    DSQRhms65JHCAcP1eN3hYQ82qCyZJ2aQIEx0ZpH8TAVIV/ONpa+uAiCmJEKymw==
+    =uEVV
+    -----END PGP MESSAGE-----
+canShuffleCandidates: true

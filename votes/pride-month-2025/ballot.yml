@@ -1,0 +1,107 @@
+subject: Pride Month 2025
+
+# Please set a score to each proposal according to your preferences.
+# You should set the highest score to your favorite option.
+# Negative scores are allowed, only the order matters.
+# You can tie two or more proposals if you have no preference.
+# To abstain, keep all the propositions tied.
+
+preferences:
+  - title: Do not take any action for Pride Month.
+    score: 0
+  - title: >
+      Logo for some selected places + blog posts:
+
+
+      - Change the logo on the website (on pages where it appears today, i.e.
+      not on documentation pages) with IP restriction (allowlist, only some
+      geographical areas would be served the "Pride" logo).
+
+      - Publish a series of blog posts outlining contributions from voluntary
+      LGBT+ contributors.
+
+      - Create a public lock issue asking folks that have a problem with it to
+      write to report@nodejs.org.
+    score: 0
+  - title: >
+      Worldwide logo + blog posts:
+
+
+      - Change the logo on the website (on pages where it appears today, i.e.
+      not on documentation pages) without any IP restriction.
+
+      - Publish a series of blog posts outlining contributions from voluntary
+      LGBT+ contributors.
+
+      - Create a public lock issue asking folks that have a problem with it to
+      write to report@nodejs.org.
+    score: 0
+  - title: >
+      Logo except some selected places + blog posts:
+
+
+      - Change the logo on the website (on pages where it appears today, i.e.
+      not on documentation pages) with IP restriction (denylist, some
+      geographical areas would not be served the "Pride" logo).
+
+      - Publish a series of blog posts outlining contributions from voluntary
+      LGBT+ contributors.
+
+      - Create a public lock issue asking folks that have a problem with it to
+      write to report@nodejs.org.
+    score: 0
+  - title: >
+      Logo for some selected places, no blog posts:
+
+
+      - Change the logo on the website (on pages where it appears today, i.e.
+      not on documentation pages) with IP restriction (allowlist, only some
+      geographical areas would be served the "Pride" logo).
+
+      - Create a public lock issue asking folks that have a problem with it to
+      write to report@nodejs.org.
+
+      - No particular action to take on the blog.
+    score: 0
+  - title: >
+      Blog posts only:
+
+
+      - Publish a series of blog posts outlining contributions from voluntary
+      LGBT+ contributors.
+
+      - Create a public lock issue asking folks that have a problem with it to
+      write to report@nodejs.org.
+
+      - Do not change the logo on the website.
+    score: 0
+  - title: >
+      Worldwide logo, no blog posts:
+
+
+      - Change the logo on the website (on pages where it appears today, i.e.
+      not on documentation pages) without any IP restriction.
+
+      - Create a public lock issue asking folks that have a problem with it to
+      write to report@nodejs.org.
+
+      - No particular action to take on the blog.
+    score: 0
+  - title: >
+      Logo except some selected places, no blog posts:
+
+
+      - Change the logo on the website (on pages where it appears today, i.e.
+      not on documentation pages) with IP restriction (denylist, some
+      geographical areas would not be served the "Pride" logo).
+
+      - Create a public lock issue asking folks that have a problem with it to
+      write to report@nodejs.org.
+
+      - No particular action to take on the blog.
+    score: 0
+poolChecksum: >-
+  iFEEZ9WxG3N3sHrOwUIpm24NSm51Rj+Neha3UVAwdYJAJQ57WkGUjMToL6uB64ImCGmEupQ5W3qIUpHpgm/1bw==
+
+# Pride month refers to showing support for the LGBT+ community during the month of June.
+# Whichever option arrives on top, it would be valid only for June 2025.
