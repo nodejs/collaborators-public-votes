@@ -3,7 +3,7 @@
 
 # 1. Select a subject for the vote. This can be a question addressed to the
 #    voting members.
-subject: REPLACEME
+subject: Test test
 
 # 2. You can leave the header instructions as is, or modify them if you see fit.
 headerInstructions: |
@@ -25,7 +25,7 @@ headerInstructions: |
 #    there are.
 candidates:
   - TODO
-  - TODO
+  - TODO2
 
 # 4. Pass the following to false if it's important to keep the candidates in the
 #    order you define above. Presenting candidates in a fixed order tends to
