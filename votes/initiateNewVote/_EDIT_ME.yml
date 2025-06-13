@@ -24,7 +24,7 @@ headerInstructions: |
 #    voters express their preference for each candidates, no matter how many
 #    there are.
 candidates:
-  - TODO
+  - TODO1
   - TODO2
 
 # 4. Pass the following to false if it's important to keep the candidates in the
